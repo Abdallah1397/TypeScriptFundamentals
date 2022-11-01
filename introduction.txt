@@ -1,0 +1,2 @@
+- Why TypeScript?
+- TypeScript Detect Error without running the code. this process called "Static Type Checking"
