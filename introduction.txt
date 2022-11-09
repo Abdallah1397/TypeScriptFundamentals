@@ -1,6 +1,0 @@
-- What is TypeScript ?
--- TypeScript is a JavaScript with syntax for types.
-
-- Why TypeScript?
--- TypeScript Detect Error without running the code. this process called "Static Type Checking"
-
