@@ -16,6 +16,7 @@ Let's compare **Dynamic Language** and **Static Language** at first and then giv
 2. **Static Language** :
     - Variables types are static, once we declare it we can't change.
     - Type of variables are known at compile time.
-    - Have better performane at run time due to not needing to check types dynamically
+    - Have better performane at run time due to not needing to check types dynamically.
+    
 So TypeScript is a Static Language.
 
