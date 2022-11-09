@@ -6,7 +6,9 @@ let theAge:number=25;
 let isMale:boolean=true;
 //isMale="dd"; // here we will find error => Type 'string' is not assignable to type 'boolean'.ts
 console.log(theName);
-
+let theBoyName="Welly";
+// theBoyName=5; // Error Beacuse the boy declared as a string (Type Of variable is known at compile time)
+console.log(theBoyName);
 
 
 // if we need to use any data type we will use any
@@ -19,3 +21,8 @@ theState=50;
 // we need to make type annotations
 const sum=(a:number,b:number)=>a+b;
 console.log(sum(5,4));
+
+let myInfo: string| number|boolean;
+myInfo="Abdallah";
+myInfo=25;
+myInfo=true;
