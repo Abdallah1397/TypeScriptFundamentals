@@ -3,6 +3,7 @@ TypeScript is a JavaScript with syntax for types.
 
 ## Why TypeScript?
 Detect error without running the code. **Static Typed Checking**
+In JavaScript, function parameters and variables don't have any information! So developers need to look at documentation, or guess based on the implementation.
 
 ## How TypeScript work?
 TypeScript compiler compile TS code into JS code. this process called **Transpilation**
